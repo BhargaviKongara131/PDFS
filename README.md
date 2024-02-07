@@ -41,3 +41,6 @@ GOOGLE_API_KEY=your-api-key
 
 Run the app:
 streamlit run app.py
+
+Author
+Bhargavi.K
